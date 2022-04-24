@@ -1,0 +1,20 @@
+.card-text{
+    color: black;
+    text-decoration: none;
+}
+.card{
+    height: 450px;
+    width: auto;
+    margin-top: auto;
+   margin-bottom: 10px;
+}
+
+.card-img-top {
+    width: auto;
+    margin-top: 31px;
+    height: 270px;
+    object-fit: contain;
+}
+.col{
+    height: 400px;
+}
