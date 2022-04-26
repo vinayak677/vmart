@@ -18,7 +18,7 @@ const Navbar = () => {
 
                         </ul>
                         <div >
-                            <a href='/' className='btn btn-outline-dark'>
+                            <a href='/login' className='btn btn-outline-dark'>
                                 <i className='fa fa-sign-in me-1' ></i>Login</a>
                             <a href='/' className='btn btn-outline-dark ms-2' >
                                 <i className='fa fa-user-plus me-1' ></i>Register</a>
